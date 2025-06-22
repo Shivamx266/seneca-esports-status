@@ -1,7 +1,7 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
+    "Status": "Occupied",
     "Assigned To": "Last - Shivam Rakeshkumar Patel",
     "Email": "srpatel70@myseneca.ca",
     "Sign-In Time": "2025-06-22, 04:27 a.m.",
@@ -42,10 +42,10 @@
   {
     "Desk Number": "PC6",
     "Status": "Occupied",
-    "Assigned To": "N/A",
+    "Assigned To": "safasf",
     "Email": "N/A",
     "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-Out Time": "Invalid Date"
   },
   {
     "Desk Number": "PC7",
