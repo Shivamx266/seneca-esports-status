@@ -2,7 +2,7 @@
   {
     "Desk Number": "PC1",
     "Status": "Available",
-    "Assigned To": "Last - Shivam Rakeshkumar Patel",
+    "Assigned To": "Last - Shivam Patel",
     "Email": "srpatel70@myseneca.ca",
     "Sign-In Time": "Sun Jun 22 2025 04:27:00 GMT-0400 (Eastern Daylight Time)",
     "Sign-Out Time": "Sun Jun 22 2025 04:31:00 GMT-0400 (Eastern Daylight Time)"
@@ -42,9 +42,9 @@
   {
     "Desk Number": "PC6",
     "Status": "Occupied",
-    "Assigned To": "",
+    "Assigned To": "asfaf",
     "Email": "",
-    "Sign-In Time": "",
+    "Sign-In Time": "Sun Jun 22 2025 08:27:00 GMT-0400 (Eastern Daylight Time)",
     "Sign-Out Time": ""
   },
   {
