@@ -5,14 +5,14 @@
     "Assigned To": "Last - Shivam Rakeshkumar Patel",
     "Email": "srpatel70@myseneca.ca",
     "Sign-In Time": "2025-06-22, 04:27 a.m.",
-    "Sign-Out Time": "N/A"
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC2",
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
+    "Sign-In Time": "",
     "Sign-Out Time": "2025-05-27, 12:26 a.m."
   },
   {
@@ -20,7 +20,7 @@
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
+    "Sign-In Time": "",
     "Sign-Out Time": "2025-05-27, 04:00 a.m."
   },
   {
@@ -28,23 +28,23 @@
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC5",
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC6",
     "Status": "Occupied",
     "Assigned To": "safasf",
     "Email": "",
-    "Sign-In Time": "N/A",
+    "Sign-In Time": "",
     "Sign-Out Time": "2025-05-27, 12:26 a.m."
   },
   {
@@ -52,31 +52,31 @@
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC8",
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC9",
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC10",
     "Status": "Available",
     "Assigned To": "",
     "Email": "",
-    "Sign-In Time": "N/A",
-    "Sign-Out Time": "N/A"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   }
 ]
