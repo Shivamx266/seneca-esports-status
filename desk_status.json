@@ -10,32 +10,32 @@
   {
     "Desk Number": "PC2",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "2025-05-27, 12:26 a.m."
   },
   {
     "Desk Number": "PC3",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "2025-05-27, 04:00 a.m."
   },
   {
     "Desk Number": "PC4",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   },
   {
     "Desk Number": "PC5",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   },
@@ -43,39 +43,39 @@
     "Desk Number": "PC6",
     "Status": "Occupied",
     "Assigned To": "safasf",
-    "Email": "N/A",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "2025-05-27, 12:26 a.m."
   },
   {
     "Desk Number": "PC7",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   },
   {
     "Desk Number": "PC8",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   },
   {
     "Desk Number": "PC9",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   },
   {
     "Desk Number": "PC10",
     "Status": "Available",
-    "Assigned To": "N/A",
-    "Email": "N/A",
+    "Assigned To": "",
+    "Email": "",
     "Sign-In Time": "N/A",
     "Sign-Out Time": "N/A"
   }
