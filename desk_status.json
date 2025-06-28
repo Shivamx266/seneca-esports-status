@@ -9,11 +9,11 @@
   },
   {
     "Desk Number": "PC2",
-    "Status": "Occupied",
+    "Status": "Available",
     "Assigned To": "Adam",
     "Email": "",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/05/26 09:26 PM"
+    "Sign-Out Time": "2025/06/28 01:00 AM"
   },
   {
     "Desk Number": "PC3",
@@ -49,11 +49,11 @@
   },
   {
     "Desk Number": "PC7",
-    "Status": "Occupied",
+    "Status": "Available",
     "Assigned To": "name",
     "Email": "Force Signed Out (Staff)",
     "Sign-In Time": "-",
-    "Sign-Out Time": "2025/06/25 11:48 PM"
+    "Sign-Out Time": "2025/06/28 01:00 AM"
   },
   {
     "Desk Number": "PC8",
