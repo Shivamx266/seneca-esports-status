@@ -1,7 +1,7 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
+    "Status": "Occupied",
     "Assigned To": "last - Unknowwnn",
     "Email": "srpatel70@myseneca.ca",
     "Sign-In Time": "2025/06/22 01:27 AM",
@@ -9,7 +9,7 @@
   },
   {
     "Desk Number": "PC2",
-    "Status": "Available",
+    "Status": "Occupied",
     "Assigned To": "Adam john",
     "Email": "",
     "Sign-In Time": "",
