@@ -1,19 +1,19 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Occupied",
+    "Status": "Available",
     "Assigned To": "last - Unknowwnn",
     "Email": "srpatel70@myseneca.ca",
     "Sign-In Time": "2025/06/22 01:27 AM",
-    "Sign-Out Time": "2025/06/22 01:31 AM"
+    "Sign-Out Time": "2025/07/02 01:00 AM"
   },
   {
     "Desk Number": "PC2",
-    "Status": "Occupied",
+    "Status": "Available",
     "Assigned To": "Adam john",
     "Email": "",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/06/28 01:00 AM"
+    "Sign-Out Time": "2025/07/02 01:00 AM"
   },
   {
     "Desk Number": "PC3",
