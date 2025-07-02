@@ -25,11 +25,11 @@
   },
   {
     "Desk Number": "PC4",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Gia Bao Ho",
+    "Email": "gbho@myseneca.ca",
+    "Sign-In Time": "2025/07/02 02:14 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC5",
