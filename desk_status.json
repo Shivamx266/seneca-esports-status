@@ -65,11 +65,11 @@
   },
   {
     "Desk Number": "PC9",
-    "Status": "Occupied",
-    "Assigned To": "Jason Morales",
+    "Status": "Available",
+    "Assigned To": "Last - Jason Morales",
     "Email": "jmorales18@myseneca.ca",
     "Sign-In Time": "2025/07/02 03:17 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/02 04:20 PM"
   },
   {
     "Desk Number": "PC10",
@@ -81,8 +81,8 @@
   },
   {
     "Desk Number": "PC11",
-    "Status": "Available",
-    "Assigned To": "",
+    "Status": "Occupied",
+    "Assigned To": "PC has problem doesn't work",
     "Email": "",
     "Sign-In Time": "",
     "Sign-Out Time": ""
