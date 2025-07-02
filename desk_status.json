@@ -9,11 +9,11 @@
   },
   {
     "Desk Number": "PC2",
-    "Status": "Available",
-    "Assigned To": "Last - Aditya Singh",
-    "Email": "asingh1451@myseneca.ca",
-    "Sign-In Time": "2025/07/02 01:57 PM",
-    "Sign-Out Time": "2025/07/02 04:45 PM"
+    "Status": "Occupied",
+    "Assigned To": "Jason Morales",
+    "Email": "jmorales18@myseneca.ca",
+    "Sign-In Time": "2025/07/02 05:28 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC3",
