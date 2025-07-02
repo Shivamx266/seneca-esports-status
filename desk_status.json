@@ -9,11 +9,11 @@
   },
   {
     "Desk Number": "PC2",
-    "Status": "Available",
-    "Assigned To": "Last - Jason Morales",
-    "Email": "jmorales18@myseneca.ca",
-    "Sign-In Time": "2025/07/02 05:28 PM",
-    "Sign-Out Time": "2025/07/02 06:15 PM"
+    "Status": "Occupied",
+    "Assigned To": "Arda Eker",
+    "Email": "aeker@myseneca.ca",
+    "Sign-In Time": "2025/07/02 06:29 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC3",
@@ -34,18 +34,18 @@
   {
     "Desk Number": "PC5",
     "Status": "Occupied",
-    "Assigned To": "Hartanto Huang",
-    "Email": "hartanto@myseneca.ca",
-    "Sign-In Time": "2025/07/02 02:23 PM",
+    "Assigned To": "Adrian Cababat",
+    "Email": "acababat@myseneca.ca",
+    "Sign-In Time": "2025/07/02 06:35 PM",
     "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC6",
-    "Status": "Occupied",
-    "Assigned To": "Clarice Feline",
+    "Status": "Available",
+    "Assigned To": "Last - Clarice Feline",
     "Email": "cfeline@myseneca.ca",
     "Sign-In Time": "2025/07/02 02:37 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/02 06:31 PM"
   },
   {
     "Desk Number": "PC7",
