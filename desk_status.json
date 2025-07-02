@@ -1,19 +1,19 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Occupied",
-    "Assigned To": "Harjot Singh Dhaliwal",
+    "Status": "Available",
+    "Assigned To": "Last - Harjot Singh Dhaliwal",
     "Email": "hsdhaliwal14@myseneca.ca",
     "Sign-In Time": "2025/07/02 01:56 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/02 04:44 PM"
   },
   {
     "Desk Number": "PC2",
-    "Status": "Occupied",
-    "Assigned To": "Aditya Singh",
+    "Status": "Available",
+    "Assigned To": "Last - Aditya Singh",
     "Email": "asingh1451@myseneca.ca",
     "Sign-In Time": "2025/07/02 01:57 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/02 04:45 PM"
   },
   {
     "Desk Number": "PC3",
