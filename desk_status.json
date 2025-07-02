@@ -41,11 +41,11 @@
   },
   {
     "Desk Number": "PC6",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Clarice Feline",
+    "Email": "cfeline@myseneca.ca",
+    "Sign-In Time": "2025/07/02 02:37 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC7",
