@@ -33,11 +33,11 @@
   },
   {
     "Desk Number": "PC5",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "Force Signed Out (Staff)",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Hartanto Huang",
+    "Email": "hartanto@myseneca.ca",
+    "Sign-In Time": "2025/07/02 02:23 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC6",
