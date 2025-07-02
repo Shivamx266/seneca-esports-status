@@ -57,19 +57,19 @@
   },
   {
     "Desk Number": "PC8",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Masihali Fahami",
+    "Email": "mfahami@myseneca.ca",
+    "Sign-In Time": "2025/07/02 03:10 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC9",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Jason Morales",
+    "Email": "jmorales18@myseneca.ca",
+    "Sign-In Time": "2025/07/02 03:17 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC10",
