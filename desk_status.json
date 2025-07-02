@@ -1,27 +1,27 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
-    "Assigned To": "Last - Kerem Batur",
-    "Email": "kbatur@myseneca.ca",
-    "Sign-In Time": "2025/07/02 01:31 PM",
-    "Sign-Out Time": "2025/07/02 01:31 PM"
+    "Status": "Occupied",
+    "Assigned To": "Harjot Singh Dhaliwal",
+    "Email": "hsdhaliwal14@myseneca.ca",
+    "Sign-In Time": "2025/07/02 01:56 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC2",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Aditya Singh",
+    "Email": "asingh1451@myseneca.ca",
+    "Sign-In Time": "2025/07/02 01:57 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC3",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Chi Bach Cao",
+    "Email": "cbcao1@myseneca.ca",
+    "Sign-In Time": "2025/07/02 01:57 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC4",
