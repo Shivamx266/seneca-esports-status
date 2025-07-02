@@ -1,11 +1,11 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
-    "Assigned To": "Last - Harjot Singh Dhaliwal",
-    "Email": "hsdhaliwal14@myseneca.ca",
-    "Sign-In Time": "2025/07/02 01:56 PM",
-    "Sign-Out Time": "2025/07/02 04:44 PM"
+    "Status": "Occupied",
+    "Assigned To": "Akif Arslan",
+    "Email": "aarslan4@myseneca.ca",
+    "Sign-In Time": "2025/07/02 05:21 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC2",
