@@ -10,10 +10,10 @@
   {
     "Desk Number": "PC2",
     "Status": "Available",
-    "Assigned To": "Adam john",
+    "Assigned To": "",
     "Email": "",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/07/02 01:00 AM"
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC3",
@@ -21,7 +21,7 @@
     "Assigned To": "",
     "Email": "",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/05/27 01:00 AM"
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC4",
@@ -37,7 +37,7 @@
     "Assigned To": "",
     "Email": "Force Signed Out (Staff)",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/06/25 11:47 PM"
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC6",
@@ -45,15 +45,15 @@
     "Assigned To": "",
     "Email": "",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/06/23 01:00 AM"
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC7",
     "Status": "Available",
-    "Assigned To": "no name",
+    "Assigned To": "",
     "Email": "Force Signed Out (Staff)",
-    "Sign-In Time": "-",
-    "Sign-Out Time": "2025/06/28 01:00 AM"
+    "Sign-In Time": "",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC8",
