@@ -49,11 +49,11 @@
   },
   {
     "Desk Number": "PC7",
-    "Status": "Available",
-    "Assigned To": "",
-    "Email": "Force Signed Out (Staff)",
-    "Sign-In Time": "",
-    "Sign-Out Time": ""
+    "Status": "Occupied",
+    "Assigned To": "Kaung Khant San",
+    "Email": "kksan@myseneca.ca",
+    "Sign-In Time": "2025/07/02 02:53 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC8",
