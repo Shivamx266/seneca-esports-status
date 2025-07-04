@@ -9,11 +9,11 @@
   },
   {
     "Desk Number": "PC2",
-    "Status": "Occupied",
-    "Assigned To": "Turmunkh Davaajargal",
+    "Status": "Available",
+    "Assigned To": "Last - Turmunkh Davaajargal",
     "Email": "tdavaajargal@myseneca.ca",
     "Sign-In Time": "2025/07/04 01:57 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 06:53 PM"
   },
   {
     "Desk Number": "PC3",
@@ -25,11 +25,11 @@
   },
   {
     "Desk Number": "PC4",
-    "Status": "Occupied",
-    "Assigned To": "Arda Eker",
+    "Status": "Available",
+    "Assigned To": "Last - Arda Eker",
     "Email": "aeker@myseneca.ca",
     "Sign-In Time": "2025/07/04 05:06 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 06:56 PM"
   },
   {
     "Desk Number": "PC5",
