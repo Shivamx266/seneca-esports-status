@@ -41,11 +41,11 @@
   },
   {
     "Desk Number": "PC6",
-    "Status": "Available",
-    "Assigned To": "Last - Karanvir Singh Uppal",
-    "Email": "ksuppal1@myseneca.ca",
-    "Sign-In Time": "2025/07/04 02:04 PM",
-    "Sign-Out Time": "2025/07/04 03:32 PM"
+    "Status": "Occupied",
+    "Assigned To": "Rigil Kent Paganpan",
+    "Email": "rkpaganpan@myseneca.ca",
+    "Sign-In Time": "2025/07/04 05:56 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC7",
