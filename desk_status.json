@@ -41,11 +41,11 @@
   },
   {
     "Desk Number": "PC6",
-    "Status": "Available",
-    "Assigned To": "Last - Clarice Feline",
-    "Email": "cfeline@myseneca.ca",
-    "Sign-In Time": "2025/07/02 02:37 PM",
-    "Sign-Out Time": "2025/07/02 06:31 PM"
+    "Status": "Occupied",
+    "Assigned To": "Chi Bach Cao",
+    "Email": "cbcao1@myseneca.ca",
+    "Sign-In Time": "2025/07/04 02:42 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC7",
