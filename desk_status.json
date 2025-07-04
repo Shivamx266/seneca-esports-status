@@ -1,19 +1,19 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
-    "Assigned To": "Last - Akif Arslan",
-    "Email": "aarslan4@myseneca.ca",
-    "Sign-In Time": "2025/07/02 05:21 PM",
-    "Sign-Out Time": "2025/07/02 08:15 PM"
+    "Status": "Occupied",
+    "Assigned To": "Hartanto Huang",
+    "Email": "hartanto@myseneca.ca",
+    "Sign-In Time": "2025/07/04 01:56 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC2",
-    "Status": "Available",
-    "Assigned To": "Last - Arda Eker",
-    "Email": "aeker@myseneca.ca",
-    "Sign-In Time": "2025/07/02 06:29 PM",
-    "Sign-Out Time": "2025/07/02 08:15 PM"
+    "Status": "Occupied",
+    "Assigned To": "Turmunkh Davaajargal",
+    "Email": "tdavaajargal@myseneca.ca",
+    "Sign-In Time": "2025/07/04 01:57 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC3",
