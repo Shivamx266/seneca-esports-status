@@ -18,13 +18,21 @@
   {
     "Desk Number": "PC3",
     "Status": "Occupied",
+    "Assigned To": "Abbas Basnet",
+    "Email": "abasnet21@myseneca.ca",
+    "Sign-In Time": "2025/07/04 03:07 PM",
+    "Sign-Out Time": "-"
+  },
+  {
+    "Desk Number": "PC4",
+    "Status": "Occupied",
     "Assigned To": "Leo Joachim Augustine Atienza",
     "Email": "ljaatienza@myseneca.ca",
     "Sign-In Time": "2025/07/04 02:02 PM",
     "Sign-Out Time": "-"
   },
   {
-    "Desk Number": "PC4",
+    "Desk Number": "PC5",
     "Status": "Occupied",
     "Assigned To": "Liyyu Satuhati",
     "Email": "lsna7@myseneca.ca",
@@ -32,7 +40,7 @@
     "Sign-Out Time": "-"
   },
   {
-    "Desk Number": "PC5",
+    "Desk Number": "PC6",
     "Status": "Occupied",
     "Assigned To": "Karanvir Singh Uppal",
     "Email": "ksuppal1@myseneca.ca",
@@ -40,7 +48,7 @@
     "Sign-Out Time": "-"
   },
   {
-    "Desk Number": "PC6",
+    "Desk Number": "PC7",
     "Status": "Occupied",
     "Assigned To": "Chi Bach Cao",
     "Email": "cbcao1@myseneca.ca",
@@ -48,19 +56,11 @@
     "Sign-Out Time": "-"
   },
   {
-    "Desk Number": "PC7",
+    "Desk Number": "PC8",
     "Status": "Occupied",
     "Assigned To": "Sajid Mahmud",
     "Email": "smahmud14@myseneca.ca",
     "Sign-In Time": "2025/07/04 03:04 PM",
-    "Sign-Out Time": "-"
-  },
-  {
-    "Desk Number": "PC8",
-    "Status": "Occupied",
-    "Assigned To": "Abbas Basnet",
-    "Email": "abasnet21@myseneca.ca",
-    "Sign-In Time": "2025/07/04 03:07 PM",
     "Sign-Out Time": "-"
   },
   {
