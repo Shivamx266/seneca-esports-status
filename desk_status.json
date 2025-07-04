@@ -25,11 +25,11 @@
   },
   {
     "Desk Number": "PC4",
-    "Status": "Available",
-    "Assigned To": "Last - Leo Joachim Augustine Atienza",
-    "Email": "ljaatienza@myseneca.ca",
-    "Sign-In Time": "2025/07/04 02:02 PM",
-    "Sign-Out Time": "2025/07/04 03:29 PM"
+    "Status": "Occupied",
+    "Assigned To": "Arda Eker",
+    "Email": "aeker@myseneca.ca",
+    "Sign-In Time": "2025/07/04 05:06 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC5",
