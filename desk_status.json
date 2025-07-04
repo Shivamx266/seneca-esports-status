@@ -34,9 +34,9 @@
   {
     "Desk Number": "PC5",
     "Status": "Occupied",
-    "Assigned To": "Jason Morales",
-    "Email": "jmorales18@myseneca.ca",
-    "Sign-In Time": "2025/07/04 05:14 PM",
+    "Assigned To": "Maryam-Ya Toure",
+    "Email": "mtoure7@myseneca.ca",
+    "Sign-In Time": "2025/07/04 06:01 PM",
     "Sign-Out Time": "-"
   },
   {
@@ -49,27 +49,27 @@
   },
   {
     "Desk Number": "PC7",
-    "Status": "Available",
-    "Assigned To": "Last - Chi Bach Cao",
-    "Email": "cbcao1@myseneca.ca",
-    "Sign-In Time": "2025/07/04 02:42 PM",
-    "Sign-Out Time": "2025/07/04 05:20 PM"
-  },
-  {
-    "Desk Number": "PC8",
     "Status": "Occupied",
-    "Assigned To": "Sajid Mahmud",
-    "Email": "smahmud14@myseneca.ca",
-    "Sign-In Time": "2025/07/04 03:04 PM",
+    "Assigned To": "Jubin Verma",
+    "Email": "jverma22@myseneca.ca",
+    "Sign-In Time": "2025/07/04 06:00 PM",
     "Sign-Out Time": "-"
   },
   {
-    "Desk Number": "PC9",
+    "Desk Number": "PC8",
     "Status": "Available",
-    "Assigned To": "Last - Jason Morales",
-    "Email": "jmorales18@myseneca.ca",
-    "Sign-In Time": "2025/07/02 03:17 PM",
-    "Sign-Out Time": "2025/07/02 04:20 PM"
+    "Assigned To": "Sajid Mahmud",
+    "Email": "Force Signed Out (Staff)",
+    "Sign-In Time": "2025/07/04 03:04 PM",
+    "Sign-Out Time": "2025/07/04 06:04 PM"
+  },
+  {
+    "Desk Number": "PC9",
+    "Status": "Occupied",
+    "Assigned To": "Matias Alejandro Jara Martell",
+    "Email": "majara-martell@myseneca.ca",
+    "Sign-In Time": "2025/07/04 06:02 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC10",
