@@ -1,11 +1,11 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Occupied",
-    "Assigned To": "Ian Jonathan Anggo",
+    "Status": "Available",
+    "Assigned To": "Last - Ian Jonathan Anggo",
     "Email": "ijpanggo@myseneca.ca",
     "Sign-In Time": "2025/07/04 04:44 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 07:00 PM"
   },
   {
     "Desk Number": "PC2",
@@ -33,43 +33,43 @@
   },
   {
     "Desk Number": "PC5",
-    "Status": "Occupied",
-    "Assigned To": "Christian Daryl Curay",
+    "Status": "Available",
+    "Assigned To": "Last - Christian Daryl Curay",
     "Email": "cdcuray@myseneca.ca",
     "Sign-In Time": "2025/07/04 06:12 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 06:59 PM"
   },
   {
     "Desk Number": "PC6",
-    "Status": "Occupied",
-    "Assigned To": "Rigil Kent Paganpan",
+    "Status": "Available",
+    "Assigned To": "Last - Rigil Kent Paganpan",
     "Email": "rkpaganpan@myseneca.ca",
     "Sign-In Time": "2025/07/04 05:56 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 06:59 PM"
   },
   {
     "Desk Number": "PC7",
-    "Status": "Occupied",
-    "Assigned To": "Jubin Verma",
+    "Status": "Available",
+    "Assigned To": "Last - Jubin Verma",
     "Email": "jverma22@myseneca.ca",
     "Sign-In Time": "2025/07/04 06:00 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 07:02 PM"
   },
   {
     "Desk Number": "PC8",
-    "Status": "Occupied",
-    "Assigned To": "Maryam-Ya Toure",
+    "Status": "Available",
+    "Assigned To": "Last - Maryam-Ya Toure",
     "Email": "mtoure7@myseneca.ca",
     "Sign-In Time": "2025/07/04 06:01 PM",
-    "Sign-Out Time": ""
+    "Sign-Out Time": "2025/07/04 07:02 PM"
   },
   {
     "Desk Number": "PC9",
-    "Status": "Occupied",
-    "Assigned To": "Matias Alejandro Jara Martell",
+    "Status": "Available",
+    "Assigned To": "Last - Matias Alejandro Jara Martell",
     "Email": "majara-martell@myseneca.ca",
     "Sign-In Time": "2025/07/04 06:02 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 07:02 PM"
   },
   {
     "Desk Number": "PC10",
