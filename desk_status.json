@@ -34,9 +34,9 @@
   {
     "Desk Number": "PC5",
     "Status": "Occupied",
-    "Assigned To": "Maryam-Ya Toure",
-    "Email": "mtoure7@myseneca.ca",
-    "Sign-In Time": "2025/07/04 06:01 PM",
+    "Assigned To": "Christian Daryl Curay",
+    "Email": "cdcuray@myseneca.ca",
+    "Sign-In Time": "2025/07/04 06:12 PM",
     "Sign-Out Time": "-"
   },
   {
@@ -57,11 +57,11 @@
   },
   {
     "Desk Number": "PC8",
-    "Status": "Available",
-    "Assigned To": "Sajid Mahmud",
-    "Email": "Force Signed Out (Staff)",
-    "Sign-In Time": "2025/07/04 03:04 PM",
-    "Sign-Out Time": "2025/07/04 06:04 PM"
+    "Status": "Occupied",
+    "Assigned To": "Maryam-Ya Toure",
+    "Email": "mtoure7@myseneca.ca",
+    "Sign-In Time": "2025/07/04 06:01 PM",
+    "Sign-Out Time": ""
   },
   {
     "Desk Number": "PC9",
