@@ -25,11 +25,11 @@
   },
   {
     "Desk Number": "PC4",
-    "Status": "Occupied",
-    "Assigned To": "Leo Joachim Augustine Atienza",
+    "Status": "Available",
+    "Assigned To": "Last - Leo Joachim Augustine Atienza",
     "Email": "ljaatienza@myseneca.ca",
     "Sign-In Time": "2025/07/04 02:02 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 03:29 PM"
   },
   {
     "Desk Number": "PC5",
@@ -41,11 +41,11 @@
   },
   {
     "Desk Number": "PC6",
-    "Status": "Occupied",
-    "Assigned To": "Karanvir Singh Uppal",
+    "Status": "Available",
+    "Assigned To": "Last - Karanvir Singh Uppal",
     "Email": "ksuppal1@myseneca.ca",
     "Sign-In Time": "2025/07/04 02:04 PM",
-    "Sign-Out Time": "-"
+    "Sign-Out Time": "2025/07/04 03:32 PM"
   },
   {
     "Desk Number": "PC7",
