@@ -81,10 +81,10 @@
   },
   {
     "Desk Number": "PC11",
-    "Status": "Occupied",
+    "Status": "Available",
     "Assigned To": "PC has problem doesn't work",
     "Email": "Force Signed Out (Staff)",
     "Sign-In Time": "",
-    "Sign-Out Time": "2025/07/03 01:00 AM"
+    "Sign-Out Time": "2025/07/05 01:00 AM"
   }
 ]
