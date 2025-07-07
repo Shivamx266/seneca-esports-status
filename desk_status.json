@@ -1,11 +1,11 @@
 [
   {
     "Desk Number": "PC1",
-    "Status": "Available",
-    "Assigned To": "Last - Ian Jonathan Anggo",
-    "Email": "ijpanggo@myseneca.ca",
-    "Sign-In Time": "2025/07/04 04:44 PM",
-    "Sign-Out Time": "2025/07/04 07:00 PM"
+    "Status": "Occupied",
+    "Assigned To": "Areena Qurayshi",
+    "Email": "aqurayshi@myseneca.ca",
+    "Sign-In Time": "2025/07/07 03:00 PM",
+    "Sign-Out Time": "-"
   },
   {
     "Desk Number": "PC2",
